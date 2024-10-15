@@ -6,6 +6,8 @@ color = 'rosa';
 
 console.log (`Hej jag heter ${firstName} och är ${year} år. Jag har många favoritfärger men en av dem är ${color}.`);
 
+console.log (1+1);
+
 // let family = 4;
 // let family = family + 2;
 // let family = family - 1;
@@ -19,12 +21,12 @@ console.log (`Hej jag heter ${firstName} och är ${year} år. Jag har många fav
 // family++;
 // family--;
 
-let family1 = 5
-let family2 = 10
+// let family1 = 5
+// let family2 = 10
 
 
 // console.log(family1 + family2);
 
 // console.log (family1-3);
-console.log (`I dessa två familjer finns det ${family1*family2/2} personer delat i två grupper`);
+// console.log (`I dessa två familjer finns det ${family1*family2/2} personer delat i två grupper`);
 
