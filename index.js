@@ -21,12 +21,15 @@ console.log (1+1);
 // family++;
 // family--;
 
-// let family1 = 5
-// let family2 = 10
+let family1 = 5
+let family2 = 10
+
+console.log(family1 - family2);
+console.log(family1 + family2);
+console.log(family1 * family2);
+
+console.log (family1-3);
+console.log (`I dessa två familjer finns det ${family1*family2/2} personer delat i två grupper`);
 
 
-// console.log(family1 + family2);
-
-// console.log (family1-3);
-// console.log (`I dessa två familjer finns det ${family1*family2/2} personer delat i två grupper`);
 
